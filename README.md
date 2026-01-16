@@ -13,7 +13,8 @@ Previously worked on: Personal projects & freelance. ⚡
    - Features include a dynamic movie catalog, responsive design, user-friendly interface, and modern React components.
 
 2. [Quantix]([https://github.com/TonNomGitHub/task-manager](https://github.com/JustKIKS/com.Quantix_Lvka)) (Node.js + React) 📦
-   - A full-featured task management web app with authentication, REST API, and responsive design.
+   - An online crypto and stock market study platform built to analyze trends, simulate trading strategies, and track portfolio performance in real time.  
+   - Features include live market data, interactive charts, user-friendly dashboards, and responsive design for seamless learning and experimentation.
 
 3. [ETNA Projects](https://github.com/TonNomGitHub?tab=repositories&q=ETNA) (Various) 🧪
    - Collection of school projects made during my studies at ETNA using Node.js, React, PHP, and MySQL.
