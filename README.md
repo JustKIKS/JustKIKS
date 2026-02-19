@@ -20,6 +20,11 @@ Previously worked on: Personal projects & freelance. ⚡
 3. [Quantix](https://github.com/JustKIKS/com.Quantix_Lvka) (Node.js + React) 📦
    - An online crypto and stock market study platform built to analyze trends, simulate trading strategies, and track portfolio performance in real time.  
    - Features include live market data, interactive charts, user-friendly dashboards, and responsive design for seamless learning and experimentation.
+  
+4. [DripLab](https://github.com/JustKIKS/com.DripLab) (WooCommerce + PHP + MariaDB + Apache 2) 📦
+   - A fully functional e-commerce platform built on a custom LAMP stack (Linux, Apache, MariaDB, PHP) hosted on a Debian virtual machine.
+   - Features a complete shopping experience with a dynamic product catalog, secure checkout simulation, and user account management.
+   - Demonstrated advanced SysAdmin skills by manually configuring network interfaces, managing MySQL databases via CLI, and optimizing server performance.
 
 
 # 🌱 Currently Learning 🧬
