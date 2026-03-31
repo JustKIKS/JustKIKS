@@ -2,9 +2,8 @@ Hi, I'm Luka Brouard. I'm a Fullstack developer studying at **ETNA**, passionate
 
 Previously worked on: Personal projects & freelance. ⚡
 
-| ![Graphe d'activité](https://github-readme-activity-graph.vercel.app/graph?username=JustKIKS&theme=dracula) |
-| :---: |
-| ![Stats de JustKIKS](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JustKIKS&show_icons=true&theme=dracula) |
+| ![Stats de JustKIKS](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JustKIKS&show_icons=true&theme=dracula) | ![Langages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JustKIKS&layout=compact&theme=dracula) |
+|-----|------|
 
 
 # 🚀 Recent Projects
