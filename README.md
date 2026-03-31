@@ -39,4 +39,5 @@ Previously worked on: Personal projects & freelance. ⚡
 
 # 📫 Contact Me ✉️
 - LinkedIn: [linkedin.com/in/luka-brouard](https://www.linkedin.com/in/luka-brouard-026584289/)
-- Email: luka.brouard@gmail.com
+- ✉️ Email: luka.brouard@gmail.com
+- 🌐 Website: https://brdluka.com/
